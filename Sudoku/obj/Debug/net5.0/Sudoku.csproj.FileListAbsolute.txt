@@ -1,0 +1,15 @@
+/Users/afra/Projects/Sudoku/Sudoku/obj/Debug/net5.0/Sudoku.csprojAssemblyReference.cache
+/Users/afra/Projects/Sudoku/Sudoku/obj/Debug/net5.0/Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Projects/Sudoku/Sudoku/obj/Debug/net5.0/Sudoku.AssemblyInfoInputs.cache
+/Users/afra/Projects/Sudoku/Sudoku/obj/Debug/net5.0/Sudoku.AssemblyInfo.cs
+/Users/afra/Projects/Sudoku/Sudoku/obj/Debug/net5.0/Sudoku.csproj.CoreCompileInputs.cache
+/Users/afra/Projects/Sudoku/Sudoku/bin/Debug/net5.0/Sudoku.deps.json
+/Users/afra/Projects/Sudoku/Sudoku/bin/Debug/net5.0/Sudoku.runtimeconfig.json
+/Users/afra/Projects/Sudoku/Sudoku/bin/Debug/net5.0/Sudoku.runtimeconfig.dev.json
+/Users/afra/Projects/Sudoku/Sudoku/bin/Debug/net5.0/Sudoku.dll
+/Users/afra/Projects/Sudoku/Sudoku/bin/Debug/net5.0/ref/Sudoku.dll
+/Users/afra/Projects/Sudoku/Sudoku/bin/Debug/net5.0/Sudoku.pdb
+/Users/afra/Projects/Sudoku/Sudoku/obj/Debug/net5.0/Sudoku.dll
+/Users/afra/Projects/Sudoku/Sudoku/obj/Debug/net5.0/ref/Sudoku.dll
+/Users/afra/Projects/Sudoku/Sudoku/obj/Debug/net5.0/Sudoku.pdb
+/Users/afra/Projects/Sudoku/Sudoku/obj/Debug/net5.0/Sudoku.genruntimeconfig.cache
